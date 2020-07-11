@@ -20,7 +20,7 @@ title                    : "Aishwarya Budhkar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aishwarya Budhkar"
-description              : "Data Science Portfolio"
+description              : "I am 2020 NYU graduate with Masters in Computer Science. I am motivated to solve real-world problems using data science. My interests lie in Computer Vision and Natural Language processing."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
