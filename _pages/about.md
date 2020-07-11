@@ -4,6 +4,8 @@ permalink: /about/
 header:
     images: "/images/headshot.jpg"
 ---
+
+
 Table of Content:
 
     Introduction:
@@ -16,26 +18,9 @@ Table of Content:
     Bachelor of Engineering, Computer Engineering
     Pune Institute of Computer Technology, Pune, India
 
-    Technical skills:
-    Languages: Python, Java, Cpp, Scala, R
-    Data Science: Pytorch, Tensorflow, Keras, sckit-learn
-    Big Data Tools: Spark, Hadoop, Pig, Hive, Impala
-    Databases: MySQL, DB2
-    Tools: Eclipse, Visual Studio, OpenCV, Matlab, PyCharm, Tableau, IntelliJ
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-    \
-
-
+    Technical skills:  
+    Languages: Python, Java, Cpp, Scala, R  
+    Data Science: Pytorch, Tensorflow, Keras, sckit-learn  
+    Big Data Tools: Spark, Hadoop, Pig, Hive, Impala  
+    Databases: MySQL, DB2  
+    Tools: Eclipse, Visual Studio, OpenCV, Matlab, PyCharm, Tableau, IntelliJ  
