@@ -6,7 +6,8 @@ header:
     excerpt: "Split-brain Autoencoder"
 ---
 <img src="/images/autoencoder3.png" width="300" height="150"/>
-<img src="/images/autoencoder1.png" width="300" height="150"/>
+<img src="/images/autoencoder.png" width="300" height="150"/>
+<img src="/images/autoencoder2.png" width="300" height="150"/>
 
 Deep learning algorithms have shown that, when given large collections of labelled data, they can achieve human-level performance on computer vision tasks. However, for many practical tasks, the availability of data is limited. Self-supervised pretraining is a method of training whereby a network predicts a part of its input using an another unseen part, which acts as the label. The objective is to learn useful representations of the data in order to fine-tune with supervision on downstream tasks such as image classification.
 
