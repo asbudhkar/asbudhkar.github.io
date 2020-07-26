@@ -33,7 +33,7 @@ header:
             </td>
         </tr>
             <td>
-                **Education:**<br/>  
+                <b>Education:</b><br/>  
                 Master of Science, Computer Science<br/>    
                 New York University, USA<br/>
                 <br/>        
@@ -42,7 +42,7 @@ header:
             </td>  
         <tr>    
             <td>
-                **Technical skills:**<br/>     
+                <b>Technical skills:</b><br/>     
                 Languages:<br/>    
                 Python, Java, Cpp, Scala, R<br/>    
                 <br/>
