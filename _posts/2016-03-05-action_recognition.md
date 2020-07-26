@@ -6,7 +6,7 @@ header:
     excerpt: "Action recognition"
 ---
 <p class="aligncenter">
-    <img  src="/images/action.jpg" width="300" height="150"/>
+    <img  src="/images/action.jpg" width="400" height="200"/>
 </p>
 
 <style>
