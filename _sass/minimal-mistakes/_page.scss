@@ -109,6 +109,7 @@ body {
   li,
   dl {
     font-size: 0.9em;
+    text-align: justify;
   }
 
   .aligncenter {
@@ -219,7 +220,7 @@ body {
 
 .page__hero-image {
   width: 100%;
-  height: auto;
+  height: 200em;
   -ms-interpolation-mode: bicubic;
 }
 
