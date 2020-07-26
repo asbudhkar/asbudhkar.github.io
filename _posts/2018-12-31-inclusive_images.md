@@ -20,4 +20,4 @@ One area of interest where we would like neural networks to generalize especiall
 
 Baseline image recognition machine leaning models Densenet and Resnet were tried. To account for the inconsistent distributions, weighted sampling  an importance sampling technique that is a variant of stratified sampling  was used to train on data more efficiently. In essence, weighted sampling takes an input and scales it by the weights that it has been given. Then the sum of the weights is divided by the number of classes, and these equal partitions are used to sample from randomly, and choose the input it aligns to in the original distribution. . After weighted sampling there was a huge boost in performance observed.
 
-<a href="https://github.com/asbudhkar/Kaggle-Inclusive-Images-Challenge">(Link to Project)</a>
+<a href="https://github.com/asbudhkar/Kaggle-Inclusive-Images-Challenge">Link to Project:</a>

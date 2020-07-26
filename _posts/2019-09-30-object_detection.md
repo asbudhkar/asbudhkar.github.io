@@ -22,4 +22,4 @@ Used Faster RCNN and SORT for object detection and tracking and designed a compu
 
 Simple online and realtime tracking is simple tracking algorithm that performs Kalman filtering and a method to measure bounding box overlap. It can track multiple objects in realtime.
 
-<a href="https://github.com/asbudhkar/Object-recognition-in-Videos">(Link to Project)</a>
+<a href="https://github.com/asbudhkar/Object-recognition-in-Videos">Link to Project:</a>

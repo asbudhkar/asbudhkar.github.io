@@ -33,4 +33,4 @@ the class of the object.
 
 On visualizing the results using Open CV, the results seemed promising. In case all three shoulder, elbow and wrist were detected properly and with proper alignment, bounding box predictions were accurate.
 
-<a href="https://github.com/asbudhkar/Hand-Detector-with-Pose-Estimation">(Link to Project)</a>
+<a href="https://github.com/asbudhkar/Hand-Detector-with-Pose-Estimation">Link to Project:</a>

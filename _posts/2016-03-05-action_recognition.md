@@ -20,4 +20,4 @@ Compared the efficiency of HOG and 3D SIFT feature descriptors used with SVM and
 
 Achieved 85% accuracy with HOG-SVM combination.
 
-<a href="https://github.com/asbudhkar/Action-Recognition-Traditional-Computer-Vision">(Link to Project)</a>
+<a href="https://github.com/asbudhkar/Action-Recognition-Traditional-Computer-Vision">Link to Project:</a>

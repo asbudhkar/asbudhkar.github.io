@@ -21,4 +21,4 @@ Due the large volume of data, the traditional systems find it difficult to proce
 
 First, collect the taxi and crime datasets and put them in HDFS. To clean the data, use Hadoop Map/Reduce. The cleaned data is then joined using Hive and analytic is performed on Hive. Use Map/Reduce for analytics. Finally, the results are visualized. 
 
-<a href="https://github.com/asbudhkar/NYC-Crime-and-Taxi">(Link to Project)</a>
+<a href="https://github.com/asbudhkar/NYC-Crime-and-Taxi">Link to Project:</a>
