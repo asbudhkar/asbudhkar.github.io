@@ -5,12 +5,12 @@ header:
     images: "/images/headshot.jpg"
 ---
 
-<p class="aligncenter">
+<p class="alignright">
     <img src="/images/headshot1.jpg" width="150" height="350"/>
 </p>
 
 <style>
-.aligncenter {
+.alignright {
     text-align: right;
 }
 </style>
