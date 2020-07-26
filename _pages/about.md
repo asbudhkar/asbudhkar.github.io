@@ -7,6 +7,7 @@ header:
 Introduction:
 <p class="alignright">
     <table>
+    <tbody>
         <tr>
             <td width=75% valign="middle">
                 I am Software Engineer eager to solve challenging real world problems. I am always looking forward to learn new technologies and curious to develop efficient ways to solve problems. I am passionate about Data Science. 
@@ -15,6 +16,7 @@ Introduction:
                 <img src="/images/headshot1.jpg" width="150" height="350"/>
             </td>
         </tr>
+        </tbody>
     </table>
 </p>
 
