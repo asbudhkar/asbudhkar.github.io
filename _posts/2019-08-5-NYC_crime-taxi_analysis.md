@@ -20,3 +20,5 @@ These days crimes are increasing at a high rate which propose a   challenge to t
 Due the large volume of data, the traditional systems find it difficult to process the data. The big data framework can help to discover patterns in data efficiently with great speed. The term big data is referred to data with large volume, velocity and veracity. In big data analytics we look at big data and find patterns, incomprehensible relations and other insights which can be used to prove or disprove assumptions. It is used on a large scale due to its fast development and many frameworks are provided for big data analytics. We deal with big data resources, tools and techniques, big data analytics and its applications.
 
 First, collect the taxi and crime datasets and put them in HDFS. To clean the data, use Hadoop Map/Reduce. The cleaned data is then joined using Hive and analytic is performed on Hive. Use Map/Reduce for analytics. Finally, the results are visualized. 
+
+<a href> https://github.com/asbudhkar/NYC-Crime-and-Taxi
