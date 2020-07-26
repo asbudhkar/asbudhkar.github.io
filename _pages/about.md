@@ -33,23 +33,23 @@ Introduction:
             </td>
         </tr>
         <tr>
-         Education:
             <td>
+                Education:
                 Master of Science, Computer Science
                 New York University, USA
-            </td>
-            <td>
                 Bachelor of Engineering, Computer Engineering
                 Pune Institute of Computer Technology, Pune, India
             </td>  
         </tr>   
-        <tr>        
-            Technical skills:  
+        <tr>    
+            <td>
+                Technical skills:  
                 Languages: Python, Java, Cpp, Scala, R  
                 Data Science: Pytorch, Tensorflow, Keras, sckit-learn  
                 Big Data Tools: Spark, Hadoop, Pig, Hive, Impala  
                 Databases: MySQL, DB2  
                 Tools: Eclipse, Visual Studio, OpenCV, Matlab, PyCharm, Tableau, IntelliJ.
+            </td>    
         </tr>
     </tbody>
 </table>
