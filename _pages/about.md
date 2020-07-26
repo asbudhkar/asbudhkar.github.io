@@ -43,12 +43,12 @@ header:
         <tr>    
             <td>
                 <b>Technical skills:</b><br/>     
-                Languages:<br/>    
-                Python, Java, Cpp, Scala, R<br/>    
+                Languages:Python, Java, Cpp, Scala, R<br/>    
                 <br/>
                 Data Science: Pytorch, Tensorflow, Keras, sckit-learn<br/>    
                 <br/>
-                Big Data Tools: Spark, Hadoop, Pig, Hive, Impala<br/>      
+                Big Data Tools: Spark, Hadoop, Pig, Hive, Impala<br/>
+                <br/>      
                 Databases: MySQL, DB2<br/>      
                 <br/>
                 Tools: Eclipse, Visual Studio, OpenCV, Matlab, PyCharm, Tableau, IntelliJ.<br/>    
