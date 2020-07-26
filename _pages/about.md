@@ -4,7 +4,7 @@ permalink: /about/
 header:
     images: "/images/headshot.jpg"
 ---
-Introduction:
+**Introduction:**
 <table>
     <tbody>
         <tr>
@@ -33,7 +33,7 @@ Introduction:
             </td>
         </tr>
             <td>
-                Education:<br/>  
+                **Education:**<br/>  
                 Master of Science, Computer Science<br/>    
                 New York University, USA<br/>
                 <br/>        
@@ -42,12 +42,15 @@ Introduction:
             </td>  
         <tr>    
             <td>
-                Technical skills:<br/>     
+                **Technical skills:**<br/>     
                 Languages:<br/>    
                 Python, Java, Cpp, Scala, R<br/>    
+                <br/>
                 Data Science: Pytorch, Tensorflow, Keras, sckit-learn<br/>    
+                <br/>
                 Big Data Tools: Spark, Hadoop, Pig, Hive, Impala<br/>      
                 Databases: MySQL, DB2<br/>      
+                <br/>
                 Tools: Eclipse, Visual Studio, OpenCV, Matlab, PyCharm, Tableau, IntelliJ.<br/>    
             </td>    
         </tr>
