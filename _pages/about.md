@@ -4,6 +4,17 @@ permalink: /about/
 header:
     images: "/images/headshot.jpg"
 ---
+
+<p class="aligncenter">
+    <img src="/images/headshot1.png" width="150" height="350"/>
+</p>
+
+<style>
+.aligncenter {
+    text-align: right;
+}
+</style>
+
 Introduction:
 I am Software Engineer eager to solve challenging real world problems. I am always looking forward to learn new technologies and curious to develop efficient ways to solve problems. I am passionate about Data Science. 
 
