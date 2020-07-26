@@ -29,13 +29,13 @@ header:
     <tbody>
         <tr>
             <td>
-                Data plays a crutial role in various businesses like finance, health-care, e-commerce, etc. The process of data capture, retrieval, processing and storing has become challenging due to the huge amaount and large variety of data available which makes it exciting for me. I have gained diverse skills in Data Science including Deep Learning, Big data application development, Computer Vision and Natural Language processing. I am interested to work on applicative research in these domains. I have end-to end experience with machine learning, big data projects which includes data collection, model training and evaluation of results. 
+                Data plays a crutial role in various businesses like finance, health-care, e-commerce, etc. The process of data capture, retrieval, processing and storing has become challenging due to the huge amount and large variety of data available which makes it exciting for me. I have gained diverse skills in Data Science including Deep Learning, Big data application development, Computer Vision and Natural Language processing. I am interested to work on applicative research in these domains. I have end-to end experience with machine learning, big data projects which includes data collection, model training and evaluation of results. 
             </td>
         </tr>
             <td>
                 <b>Education:</b><br/>  
                 Master of Science, Computer Science<br/>    
-                New York University, USA<br/>
+                New York University, NY, USA<br/>
                 <br/>        
                 Bachelor of Engineering, Computer Engineering<br/>    
                 Pune Institute of Computer Technology, Pune, India<br/>    
@@ -43,7 +43,7 @@ header:
         <tr>    
             <td>
                 <b>Technical skills:</b><br/>     
-                Languages:Python, Java, Cpp, Scala, R<br/>    
+                Languages: Python, Java, Cpp, Scala, R<br/>    
                 <br/>
                 Data Science: Pytorch, Tensorflow, Keras, sckit-learn<br/>    
                 <br/>
