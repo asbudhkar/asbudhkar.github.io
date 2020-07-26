@@ -19,3 +19,5 @@ Action recognition is an important problem in computer vision. It finds applicat
 Compared the efficiency of HOG and 3D SIFT feature descriptors used with SVM and KNN classifiers for human action recognition from videos. KTH dataset videos are used for training and testing with six action classes boxing, handclapping, running, handwaving, jogging and walking.
 
 Achieved 85% accuracy with HOG-SVM combination.
+
+<a link> https://github.com/asbudhkar/Action-Recognition-Traditional-Computer-Vision
