@@ -105,7 +105,9 @@ body {
 		}
 	}
 
-  p,
+  p {
+    text-align: justify;
+  }
   li,
   dl {
     font-size: 0.9em;
@@ -220,7 +222,7 @@ body {
 
 .page__hero-image {
   width: 100%;
-  height: 200em;
+  height: 20em;
   -ms-interpolation-mode: bicubic;
 }
 
