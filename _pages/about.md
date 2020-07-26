@@ -35,42 +35,64 @@ Introduction:
         <tr>
             <td>
                 <tr>
+                <td>
                 Education:
+                </td>
                 </tr>
                 <tr>
+                <td>
                 Master of Science, Computer Science
+                </td>
                 </tr>
                 <tr>
+                <td>
                 New York University, USA
+                </td>
                 </tr>
                 <tr>
+                <td>
                 Bachelor of Engineering, Computer Engineering
+                </td>
                 </tr>
                 <tr>
+                <td>
                 Pune Institute of Computer Technology, Pune, India
+                </td>
                 </tr>
             </td>  
         </tr>   
         <tr>    
             <td>
                 Technical skills: 
-                <tr> 
+                <tr>
+                <td> 
                 Languages: 
+                </td>
                 </tr>
                 <tr>
+                <td>
                 Python, Java, Cpp, Scala, R
+                </td>
                 </tr>
-                <tr>  
-                Data Science: Pytorch, Tensorflow, Keras, sckit-learn  
+                <tr> 
+                <td> 
+                Data Science: Pytorch, Tensorflow, Keras, sckit-learn
+                </td>  
                 </tr>
                 <tr>
+                <td>
                 Big Data Tools: Spark, Hadoop, Pig, Hive, Impala  
+                </td>
                 </tr>
                 <tr>
+                <td>
                 Databases: MySQL, DB2  
+                </td>
                 </tr>
                 <tr>
+                <td>
                 Tools: Eclipse, Visual Studio, OpenCV, Matlab, PyCharm, Tableau, IntelliJ.
+                </td>
                 </tr>
             </td>    
         </tr>
