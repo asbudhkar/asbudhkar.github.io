@@ -4,13 +4,18 @@ permalink: /about/
 header:
     images: "/images/headshot.jpg"
 ---
-
+Introduction:
 <p class="alignright">
-    <text>
-     Introduction:
-    I am Software Engineer eager to solve challenging real world problems. I am always looking forward to learn new technologies and curious to develop efficient ways to solve problems. I am passionate about Data Science. 
-    </text>
-    <img src="/images/headshot1.jpg" width="150" height="350"/>
+    <table>
+        <tr>
+            <td width=75% valign="middle">
+                I am Software Engineer eager to solve challenging real world problems. I am always looking forward to learn new technologies and curious to develop efficient ways to solve problems. I am passionate about Data Science. 
+            </td>
+            <td width=25%>
+                <img src="/images/headshot1.jpg" width="150" height="350"/>
+            </td>
+        </tr>
+    </table>
 </p>
 
 <style>
