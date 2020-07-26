@@ -6,9 +6,11 @@ header:
 ---
 
 <p class="alignright">
-    <img src="/images/headshot1.jpg" width="150" height="350"/>
-    Introduction:
+    <text>
+     Introduction:
     I am Software Engineer eager to solve challenging real world problems. I am always looking forward to learn new technologies and curious to develop efficient ways to solve problems. I am passionate about Data Science. 
+    </text>
+    <img src="/images/headshot1.jpg" width="150" height="350"/>
 </p>
 
 <style>
