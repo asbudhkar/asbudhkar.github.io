@@ -5,10 +5,21 @@ tags: [deep learning, computer vision]
 header:
     excerpt: "Split-brain Autoencoder"
 ---
-<img src="/images/autoencoder3.png" width="300" height="150"/>
-<img src="/images/autoencoder.png" width="300" height="150"/>
-<img src="/images/autoencoder2.png" width="300" height="150"/>
+<p class="aligncenter">
+    <img src="/images/autoencoder3.png" width="300" height="150"/>
+</p>
+<p class="aligncenter">
+    <img src="/images/autoencoder.png" width="300" height="150"/>
+</p>
+<p class="aligncenter">
+    <img src="/images/autoencoder2.png" width="300" height="150"/>
+</p>
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 Deep learning algorithms have shown that, when given large collections of labelled data, they can achieve human-level performance on computer vision tasks. However, for many practical tasks, the availability of data is limited. Self-supervised pretraining is a method of training whereby a network predicts a part of its input using an another unseen part, which acts as the label. The objective is to learn useful representations of the data in order to fine-tune with supervision on downstream tasks such as image classification.
 
 Split-Brain Autoencoder method finds useful global features for classification by solving complementary prediction tasks and therefore utilizing all data in the input. The network is divided into two fully convolutional sub-networks and each is trained to predict one subset of channels of input from the other. For fine-tuning, a classifier is added as the last layer. Using a dataset of 96x96 images, with 512k unlabeled images, 64k labelled training images, and 64k labelled validation images, we perform

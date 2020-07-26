@@ -9,6 +9,13 @@ header:
 <p class="aligncenter">
     <img src="/images/hand.png" width="300" height="150"/>
 </p>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
 Open Pose, a human body keypoint estimator, was used for detecting objects in people’s hands. 
 The idea is to use the orientation of hand with keypoints corresponding to shoulder, elbow and wrist of hand to predict the bounding box around hand and use the image within bounding box to predict the category of object in hand. Even if the segmentation technique fails due to obstruction or intersecting objects, the hand keypoints which are visible can lead to assist in identification of object in hand.
 

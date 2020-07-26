@@ -5,7 +5,15 @@ tags: [Big data]
 header:
     excerpt: "Big data analytics"
 ---
-<img src="/images/flight_delays.png" width="300" height="150"/>
+<p class="aligncenter">
+    <img src="/images/flight_delays.png" width="300" height="150"/>
+</p>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 Due to the huge growth in air traffic in recent years, it is required to develop effective air transport control systems. Data is collected from ground stations, satellites, sensors on aircraft leading to huge volume of data collected. GPS sensors collect information like distance, time of departure and arrival, etc. Weather stations record information about historical weather as well as predict weather conditions in future. The large volume of data collected from various sources is too big to handle for traditional systems.
 

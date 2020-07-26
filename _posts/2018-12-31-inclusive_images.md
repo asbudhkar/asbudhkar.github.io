@@ -5,8 +5,15 @@ tags: [computer vision, deep learning]
 header:
     excerpt: "Inclusive images Kaggle challenge"
 ---
-<img src="/images/inclusive_images.png" width="300" height="150"/>
+<p class="aligncenter">
+    <img src="/images/inclusive_images.png" width="300" height="150"/>
+</p>
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 Modern convolutional networks are not known to be robust against distributional skew, i.e. generalizing over different distributions in testing vs. training. However, in real world systems, training data is not inclusive enough of all possible scenarios, and our prediction models usually tend to fail. In this project, attempt is made to try out approaches to train classifiers to obtain good results over different geographical distributions
 
 One area of interest where we would like neural networks to generalize especially well is across geographical distributions. It is understood that a doctor’s clinic in the United States or in Europe is unlikely to resemble a doctor’s clinic in India or in Africa, proving to be a problem for our classifiers’ predictions. The weights that the classifier will learn for the clinic in the US will be very different from those it would learn from a clinic in Africa, and hence it would have a hard time predicting ”clinic” for the latter. To tackle this problem, one needs to be able to model our classifiers to perform well on geographical stress tests.
