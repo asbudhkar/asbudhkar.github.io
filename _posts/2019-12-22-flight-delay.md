@@ -23,4 +23,4 @@ The flight departure delays were high at JFK from April to August. Similarly, in
 
 As the data distribution was not uniform with non-delayed flight records exceeding four times the number of delayed records, Synthetic Minority Over-sampling Technique was used to generate synthetic samples of minority class and thus make the data distribution uniform for machine learning algorithms. A machine learning model was trained to predict if a flight will be delayed using the weather data and flight information. Weather features – Precipitation, Snow, Wind speed, Max Temperature, Min Temperature and Flight features like arrival delay and flight distance were used to train the model. Logistic Regression, Support vector Machines, Decision Tree and Random Forest classifiers were used.  2017 data was used for training the model while 2018 data was used for testing. The binary classifier was trained for 100 iterations. Best testing accuracy of 91% was obtained for logistic regression model.
 
-<a href> https://github.com/asbudhkar/Spark--Flight-Delay-Analysis-and-Prediction
+<a href="https://github.com/asbudhkar/Spark--Flight-Delay-Analysis-and-Prediction">

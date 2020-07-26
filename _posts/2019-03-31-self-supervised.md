@@ -30,4 +30,4 @@ Entropy loss between the network output and a downsampled, quantized version of 
 sub-network has 12x12 output features, each of which corresponds to a pixel in a 12x12 downsampled ground truth of the input image. The number of output channels in each sub-network corresponds to the number of classes for each pixel, which is exactly the number of colors into which each channel was quantized into. Fine-tuning consists of adding a classifier on top of the concatenated output of
 the two sub-networks.
 
-<a href> https://github.com/asbudhkar/LeProject
+<a href="https://github.com/asbudhkar/LeProject">
