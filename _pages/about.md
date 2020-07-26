@@ -6,7 +6,7 @@ header:
 ---
 
 <p class="aligncenter">
-    <img src="/images/headshot1.png" width="150" height="350"/>
+    <img src="/images/headshot1.jpg" width="150" height="350"/>
 </p>
 
 <style>
