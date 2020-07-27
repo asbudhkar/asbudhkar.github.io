@@ -6,7 +6,7 @@ header:
     excerpt: "Big data analytics"
 ---
 <p class="aligncenter">
-    <img src="/images/flight_delays.png" width="600" height="450"/>
+    <img src="/images/flight_delay.png" width="600" height="450"/>
 </p>
 
 <style>
