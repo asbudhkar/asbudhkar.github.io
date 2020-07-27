@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Aishwarya Budhkar"
   avatar           : "/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am 2020 NYU graduate with Masters in Computer Science. I am motivated to solve real-world problems using data science. My interests lie in Computer Vision and Natural Language processing."
+  bio              : "I am 2020 NYU graduate with Masters in Computer Science. I am motivated to solve real-world problems using data science. My interests lie in Computer Vision, Deep Learning, Big Data and Natural Language processing."
   location         : "New Jersey"
   email            :
   links:
