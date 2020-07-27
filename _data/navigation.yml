@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /machine-learning/
-  - title: "Resume"
-    url: https://github.com/asbudhkar/asbudhkar.github.io/blob/master/images/Aishwarya_Budhkar-ML-Resume.pdf
+  # - title: "Resume"
+  #   url: https://github.com/asbudhkar/asbudhkar.github.io/blob/master/images/Aishwarya_Budhkar-ML-Resume.pdf
   - title: "Resume1"
     url: /resume/
   
