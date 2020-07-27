@@ -6,7 +6,10 @@ main:
     url: /machine-learning/
   - title: "Resume"
     url: https://github.com/asbudhkar/asbudhkar.github.io/blob/master/images/Aishwarya_Budhkar-ML-Resume.pdf
-  # - title: "Sample Posts"
+  - title: "Resume1"
+    url: /resume/
+  
+    # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
