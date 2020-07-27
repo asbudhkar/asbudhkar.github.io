@@ -242,4 +242,9 @@ The test set was used to generate bounding box coordinates using the saved hand 
 
 On visualizing the results using Open CV, the results seemed promising. In case all three shoulder, elbow and wrist were detected properly and with proper alignment, bounding box predictions were accurate.
 
+
+# Future Scope
+Open Pose model from Tensorboy was used. It was unable to detect all three keypoints in some videos with obstruction and improper alignment of the three keypoints. In this case, it was not possible to detect the bounding box accurately. Also, if the person was too close to camera with hand not visible, this method did not provide accurate results. 
+These limitations can be overcome by improving the keypoint detection or adding tracking algorithms and directly detecting forehand keypoints to determine the bounding box.  
+
 <a href="https://github.com/asbudhkar/Hand-Detector-with-Pose-Estimation">Link to Project:</a>
