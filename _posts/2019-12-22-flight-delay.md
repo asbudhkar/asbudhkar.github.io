@@ -277,7 +277,7 @@ As the data distribution was not uniform with non-delayed flight records exceedi
 
 <p class="aligncenter">
     <video width="900" height="750" controls>
-        <source src="image/finalvideo.mov" type="video/mov" />
+        <source src="image/finalvideo.mp4" type="video/mp4" />
     </video>
 </p>
 
