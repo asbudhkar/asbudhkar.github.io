@@ -24,7 +24,7 @@ This problem is difficult to solve due to real-time performance requirement, var
 Open Pose, a human body keypoint estimator, is used for detecting people’s hands. The idea is to use the orientation of hand with keypoints corresponding to shoulder, elbow and wrist of hand to predict the bounding box around hand and use the image within bounding box to predict the category of object in hand. Even if the segmentation technique fails due to obstruction or intersecting objects, the hand keypoints which are visible can lead to assist in identification of object in hand.
 
 
-1. Create dataset for training 
+## Create dataset for training 
 
 Videos of person holding objects were collected to use for detecting objects in hand. Videos were captured with cameras at different angles. Dataset includes frames extracted from videos captured and for every frame an annotation text file including the name of sample, class and four bounding box coordinates of object in hand captured with OpenCV.  
 
@@ -33,7 +33,7 @@ CMU Open Pose model was used to capture keypoints for every frame of video. For 
 The dataset was split into 70 % train and 30 % test set.
 
 <p class="aligncenter">
-    <img src="/images/openpose.jpg" width="300" height="150"/>
+    <img src="/images/openpose.jpg" width="800" height="650"/>
 </p>
 
 ### Import libraries
@@ -138,7 +138,7 @@ def draw_humans1(npimg, x, y, w, h, imgcopy=False):
             f.write('\n')
             break
 ```
-2. Train a model to predict the bounding box coordinates
+## Train a model to predict the bounding box coordinates
 
 A 5-layer neural network was trained to generate the bounding box coordinates for object with 3 pairs of hand coordinates as input from the train dataset. Smooth Mean Square Error i.e. Huber loss was used along with Adam optimizer. With a learning rate of 0.001, the model was trained for 200 epochs.
 
@@ -228,16 +228,16 @@ cv2.destroyAllWindows()
 ```
 
 
-3. Train a classifier with the objects under consideration  
+## Train a classifier with the objects under consideration  
 
 Images of objects under consideration was taken and classes assigned. A pretrained VGG-8 classifier trained on COCO dataset was finetuned using images collected.
 
-4. Testing the model 
+## Testing the model 
 
 The test set was used to generate bounding box coordinates using the saved hand detector model. The image within boxes was cropped and classified using a VGG-8 network finetuned on objects under consideration. The result was stored as a video with the bounding boxes drawn on the frame along with the class of the object. 
 
 <p class="aligncenter">
-    <img src="/images/flow-diagram.png" width="400" height="250"/>
+    <img src="/images/flow-diagram.png" width="800" height="650"/>
 </p>
 
 On visualizing the results using Open CV, the results seemed promising. In case all three shoulder, elbow and wrist were detected properly and with proper alignment, bounding box predictions were accurate.
