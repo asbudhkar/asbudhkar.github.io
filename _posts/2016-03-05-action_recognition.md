@@ -44,8 +44,9 @@ The histograms are used to train the classifier. The classifier will then genera
 5. Classification of Test videos 
 Histograms of test videos are given to the classifier. The classifier uses the trained model to label the videos. Accuracy is computed for test videos. 
 
-- 3D Scale Invariant Feature Transform Methodology 1. Computation of Space Time Interest Points  
- 
+- 3D Scale Invariant Feature Transform Methodology 
+
+1. Computation of Space Time Interest Points  
 Initially space time interest points (STIPs) are computed for each video. Then frames are extracted from each video and resized into 160x120. These are then used by 3D SIFT to calculate the descriptor.  
  
 2. Extraction of Features 
